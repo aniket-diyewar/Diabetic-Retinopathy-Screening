@@ -83,6 +83,6 @@ history = model.fit(
 )
 
 # Save model
-model.save("dr_model_mobilenet.h5")
+model.save("models/dr_model_mobilenet.h5")
 
 print("Model Saved")
